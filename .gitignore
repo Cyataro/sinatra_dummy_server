@@ -1,0 +1,16 @@
+*~
+*.bak
+._*
+.bundle
+.env
+*.rdb
+log/*.log
+tmp
+tmp/**/*
+ERD.*
+doc
+vendor/*
+.DS_Store
+.project
+node_modules
+yarn-error.log
